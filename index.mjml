@@ -58,7 +58,7 @@
       <mj-raw>
         <!-- start of health & beauty sections -->
       </mj-raw>
-      <mj-section padding="0 0 15px 0" direction="rtl">
+      <mj-section padding="25px 0 15px 0" direction="rtl">
         <mj-column width="45%">
           <mj-image padding="0" href="https://savannahbee.com/collections/body-care" alt="body-care-img" src="./components/body-care-img.jpg" />
         </mj-column>

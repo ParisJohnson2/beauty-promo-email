@@ -1,0 +1,245 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .icons-size {
+        max-width: 280px;
+        padding: 25px 0 1px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#D3CFCA">
+    <mj-wrapper padding="0" background-color="#FFFFFF">
+      <mj-raw>
+        <!-- start of logo section -->
+      </mj-raw>
+      <mj-section padding-bottom="10px" background-color="#F9F6E7">
+        <mj-column>
+          <mj-image alt="logo-img" href="https://savannahbee.com" align="center" height="70px" width="70px" padding-top="8px" padding-bottom="15px" src="./components/logo.png" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of logo section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of header img section -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image alt="head-img" href="https://savannahbee.com/collections/health-beauty" src="./components/header-img.jpg" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of header img section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of header qoute section -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column background-color="#F9F6E7">
+          <mj-text align="center" line-height="1.5" font-size="28px" color="#151660" font-weight="400" padding-top="10px" padding-bottom="2px">
+            Health & Beauty
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="300" padding-top="2px">
+            We believe health and beauty originate in nature. Our products are backed by research
+            and designed to gently cleanse, hydrate, and soften skin with the power of beeswax,
+            royal jelly, honey, and propolis straight from the hive. Bee well. Feel well. Do well.
+          </mj-text>
+          <mj-image padding="0 0 25px 0" alt="shop-now-img" align="center" height="55px" width="135px" href="https://savannahbee.com/collections/health-beauty" src="./components/shop-now.png" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of header qoute section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of health & beauty sections -->
+      </mj-raw>
+      <mj-section padding="0 0 15px 0" direction="rtl">
+        <mj-column width="45%">
+          <mj-image padding="0" href="https://savannahbee.com/collections/body-care" alt="body-care-img" src="./components/body-care-img.jpg" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text align="center" color="#151660" font-size="24px" line-height="1.3" font-weight="300" padding-top="10px" padding-bottom="5px">
+            Cleanse, hydrate, and soften skin with the power of beeswax, royal jelly, honey, and propolis straight from the hive.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0" direction="ltr">
+        <mj-column width="45%">
+          <mj-image padding="0" href="https://savannahbee.com/collections/lip-care" alt="lip-care-img" src="./components/lip-care-img.jpg" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text align="center" color="#151660" font-size="24px" line-height="1.3" font-weight="300" padding-top="30px" padding-bottom="15px">
+            Bee-sourced, high-quality ingredients to soften and protect your smile.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0 25px" direction="rtl">
+        <mj-column width="45%">
+          <mj-image padding="0" href="https://savannahbee.com/collections/skin-care" alt="skin-care-img" src="./components/skin-care-img.jpg" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text align="center" color="#151660" font-size="24px" line-height="1.3" font-weight="300" padding-top="10px" padding-bottom="5px">
+            Treat your skin, hair, and nails, making you feel as gorgeous as a wildflower field in bloom.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of health & beauty sections -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of beauty slogan -->
+      </mj-raw>
+      <mj-section background-color="#F9F6E7" padding-bottom="5px">
+        <mj-column>
+          <mj-text align="center" line-height="1.5" font-size="25px" color="#151660" font-weight="300" padding-top="25px" text-transform="uppercase" padding-bottom="5px">
+            "Discover the sweet essence of beauty"
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of beauty slogan -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of product showcase / first row section -->
+      </mj-raw>
+      <mj-section background-color="#F9F6E7" padding-top="0px">
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product1-img" href="https://savannahbee.com/products/beeswax-lip-tint-blackberry-shimmer-1" src="./components/product-img-1.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Blackberry Lip Tint
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $8.50 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/beeswax-lip-tint-blackberry-shimmer-1" src="./components/quick-view.png" />
+        </mj-column>
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product2-img" href="https://savannahbee.com/products/royal-jelly-body-butter-rosemary-lavender" src="./components/product-img-2.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Body Butter® Rosemary Lavender 6.7oz
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $30.00 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/royal-jelly-body-butter-rosemary-lavender" src="./components/quick-view.png" />
+        </mj-column>
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product3-img" href="https://savannahbee.com/products/royal-jelly-body-butter-chamomile-and-myrrh" src="./components/product-img-3.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Body Butter® Chamomile & Myrrh 6.7oz
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $30.00 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/royal-jelly-body-butter-chamomile-and-myrrh" src="./components/quick-view.png" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of product showcase / first row section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of product showcase / second row section -->
+      </mj-raw>
+      <mj-section background-color="#F9F6E7" padding-top="0px">
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product4-img" href="https://savannahbee.com/products/savannah-bee-beeswax-heel-balm" src="./components/product-img-4.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Beeswax Heel Balm 2oz
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $8.50 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/savannah-bee-beeswax-heel-balm" src="./components/quick-view.png" />
+        </mj-column>
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product5-img" href="https://savannahbee.com/products/honey-and-beeswax-body-balm?variant=43013824151776" src="./components/product-img-5.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Honey & Beeswax Body Balm 0.6oz
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $8.50 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/honey-and-beeswax-body-balm?variant=43013824151776" src="./components/quick-view.png" />
+        </mj-column>
+        <mj-column width="33%" padding="5px">
+          <mj-image align="center" padding="1px" width="180px" alt="product6-img" href="https://savannahbee.com/products/royal-jelly-body-butter-tupelo-honey" src="./components/product-img-6.jpg" />
+          <mj-text align="center" color="#151660" font-size="18px" line-height="1.3" font-weight="500" padding-bottom="0">
+            Body Butter® Tupelo Honey 6.7oz
+          </mj-text>
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="8px">
+            $30.00 USD
+          </mj-text>
+          <mj-image align="center" padding="5px" height="30px" width="90px" alt="quick-view-img" href="https://savannahbee.com/products/royal-jelly-body-butter-tupelo-honey" src="./components/quick-view.png" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of product showcase / second row section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- start of varity of honey section -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image padding="0" alt="img" href="https://savannahbee.com/products/honey-body-lotion-orange-blossom" src="./components/lotion-img.jpg" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="0 1px 5px">
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="300">
+            Naturally soften your skin and create a barrier to hold in moisture. With our Orange Blossom Honey Body Lotion
+          </mj-text>
+          <mj-image alt="shop-now-logo" align="center" height="45px" width="130px" padding-top="2px" padding-bottom="10px" href="https://savannahbee.com/products/honey-body-lotion-orange-blossom" src="./components/shop-now.png" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of varity of honey section -->
+      </mj-raw>
+
+      <mj-raw>
+        <!-- start of footer -->
+      </mj-raw>
+      <mj-section background-color="#F9F6E7" padding-bottom="0">
+        <mj-column>
+          <mj-image alt="logo-img" href="https://savannahbee.com" align="center" height="70px" width="70px" padding-top="8px" padding-bottom="5px" src="./components/logo.png" />
+          <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="400" padding-top="5px" padding-bottom="0">
+            Savannah Bee Company
+          </mj-text>
+        </mj-column>
+        <mj-group css-class="icons-size">
+          <mj-column padding="0" width="25%">
+            <mj-image padding="0 5px" href="https://www.facebook.com/savannahbeecompany/" src="./components/facebook-logo.png" width="27px" height="27px" alt="facebook" />
+          </mj-column>
+          <mj-column padding="0" width="25%">
+            <mj-image padding="0 5px" href="https://www.instagram.com/savannahbeeco/" src="./components/instagram-logo.png" width="27px" height="27px" alt="instagram" />
+          </mj-column>
+          <mj-column padding="0" width="25%">
+            <mj-image padding="0 5px" href="https://twitter.com/SavannahBeeCo/" src="./components/twitter-logo.png" width="27px" height="27px" alt="twitter" />
+          </mj-column>
+          <mj-column padding="0" width="25%">
+            <mj-image padding="0 5px" href="https://www.pinterest.com/savannahbeeco/" src="./components/pinterest-logo.png" width="27px" height="27px" alt="pinterest" />
+          </mj-column>
+          <mj-column width="100%">
+            <mj-text align="center" color="#151660" font-size="15px" line-height="1.3" font-weight="300" padding="15px 20px">
+              "With each jar of honey, bee-powered beauty product, and cultivated hive, we're working to save the bees. And with every purchase from Savannah Bee Co., you are too."
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#151660" font-size="12px" line-height="1.3" font-weight="300" padding-top="5px" padding-bottom="5px">
+            Savannah Bee Company &copy; 2023 All Rights Reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- end of footer -->
+      </mj-raw>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
